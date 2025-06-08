@@ -1,0 +1,82 @@
+/* General Reset and Typography */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Headings */
+h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Centering Utility */
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Employee Card Styling */
+.employee-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.employee-card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+/* Input Styles */
+.form-control {
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* Button Styling (for better contrast) */
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-info:hover {
+  background-color: #138496;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+/* Table Responsive Wrapper */
+.table-responsive {
+  overflow-x: auto;
+}
+
+/* Table Style Tweaks */
+table th,
+table td {
+  vertical-align: middle !important;
+}

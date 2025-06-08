@@ -1,0 +1,15 @@
+.navbar {
+  padding: 15px 30px;
+  background-color: #007bff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 750px;
+}
