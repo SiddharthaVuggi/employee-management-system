@@ -11,21 +11,6 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 -  Simple, user-friendly frontend interface
 -  Modular code structure
 
-## Folder Structure
-
-├── backend/ # Spring Boot backend
-│ ├── src/
-│ │ ├── main/java/com/ems/
-│ │ └── resources/application.properties
-│ └── pom.xml
-├── frontend/ # Static frontend files
-│ ├── index.html
-│ ├── login.html
-│ ├── register.html
-│ ├── employees.html
-│ └── styles.css
-└── README.md
-
  ## API Endpoints
  
 | Method | Endpoint              | Description             |
@@ -57,3 +42,16 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 - Profile picture upload
 
 - Responsive UI with Angular
+
+## Sample Screenshots
+
+  Employee Management System :
+  ![WhatsApp Image 2025-06-08 at 19 38 14_d8d17be0](https://github.com/user-attachments/assets/337e33ea-cc3a-4a58-87ef-29a3e800de6e)
+
+  Update Employee :
+  ![image](https://github.com/user-attachments/assets/6c31074a-d30f-4296-88e8-ed13dfd267ee)
+
+  Add Employee : 
+  ![image](https://github.com/user-attachments/assets/cf031dee-c578-445b-8c0e-3a416e5284c9)
+
+
