@@ -1,6 +1,6 @@
 # Employee Management System (EMS)
 
-A full-stack Employee Management System that allows users to perform CRUD operations on employee data with secure login and database storage. Built with **Spring Boot (Java)** for the backend, **MySQL** for data persistence, and a lightweight **HTML/CSS/JavaScript/React.Js** frontend.
+A full-stack Employee Management System that allows users to perform CRUD operations on employee data with secure login and database storage. Built with **Spring Boot (Java)** for the backend, **MySQL** for data persistence, and a lightweight **HTML/CSS/JavaScript/React.JS** frontend.
 
 ## Features
 
@@ -15,7 +15,7 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 | Method | Endpoint              | Description             |
 | ------ | --------------------- | ----------------------- |
 | POST   | `/api/auth/register`  | Register a new user     |
-| POST   | `/api/auth/login`     | Login and get JWT token |
+| POST   | `/api/auth/login`     | Login                   |
 | GET    | `/api/employees`      | Get all employees       |
 | POST   | `/api/employees`      | Create a new employee   |
 | PUT    | `/api/employees/{id}` | Update an employee      |
@@ -23,7 +23,7 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 
 ## Tech Stack
 
-- Frontend: HTML5, CSS3, JavaScript
+- Frontend: HTML5, CSS3, JavaScript, React.JS
 - Backend: Java 17, Spring Boot, Spring Security
 - Database: MySQL
 - Build Tool: Maven
@@ -46,5 +46,4 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 
   Add Employee : 
   ![image](https://github.com/user-attachments/assets/cf031dee-c578-445b-8c0e-3a416e5284c9)
-
-
+  
