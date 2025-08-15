@@ -25,11 +25,9 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 ## Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
-
-- Backend: Java 17, Spring Boot, Spring Security, JPA
+- Backend: Java 17, Spring Boot, Spring Security
 - Database: MySQL
 - Build Tool: Maven
-- Auth: JWT (JSON Web Token)
 
 ## Future Enhancements
 
@@ -37,11 +35,7 @@ A full-stack Employee Management System that allows users to perform CRUD operat
 
 - Employee search, filter, pagination
 
-- Deploy to Heroku or Netlify
-
-- Profile picture upload
-
-- Responsive UI with Angular
+- Deploy to Netlify
 
 ## Sample Screenshots
 
